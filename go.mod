@@ -1,4 +1,4 @@
-module shared-libs
+module github.com/praleedsuvarna/shared-libs
 
 go 1.24.0
 
